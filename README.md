@@ -61,3 +61,6 @@ Relay1 akan otomatis mati jika waktu saat ini diluar range yang telah dikonfigur
 **NOTE:**<br>
 * Relay1 tidak dapat di kontrol ketika scheduler aktif.
 
+# Hard Reset #
+
+Untuk melakukan hard reser anda dapat menekan tombol boot, dan menunggu LED indikator berkedip 5 kali.
