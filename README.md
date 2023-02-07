@@ -64,3 +64,10 @@ Relay1 akan otomatis mati jika waktu saat ini diluar range yang telah dikonfigur
 # Hard Reset #
 
 Untuk melakukan hard reser anda dapat menekan tombol boot, dan menunggu LED indikator berkedip 5 kali.
+
+# Restfull API #
+
+Untuk REST API menggunakan method GET<br>
+anda dapat melakukan request ke endpoint BLYNK API dengan format url seperti berikut<br>
+
+**https://blynk.cloud/external/api/update?token={token}&{pin}={value}**
