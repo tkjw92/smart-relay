@@ -44,7 +44,7 @@ V5  | LCD WIDGET IN BLYNK APP
 # Scheduler Setup #
 
 Scheduler Task akan mengontrol relay1 secara otomatis sesuai dengan range waktu yang ditentukan, untuk range waktu adalah waktu 
-relay menyala misal. Range wkatu<br>
+relay menyala misal. Range waktu<br>
 
 start = 1310<br>
 end = 1412<br>
@@ -63,7 +63,7 @@ Relay1 akan otomatis mati jika waktu saat ini diluar range yang telah dikonfigur
 
 # Hard Reset #
 
-Untuk melakukan hard reser anda dapat menekan tombol boot, dan menunggu LED indikator berkedip 5 kali.
+Untuk melakukan hard reset anda dapat menekan tombol boot, dan menunggu indikator LED berkedip 5 kali.
 
 # Restfull API #
 
